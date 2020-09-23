@@ -1,0 +1,14 @@
+Title: Educational Games (E-Games)
+Description: Computerized Educational Game
+Date Created: 2004, September 
+Date Uploaded: October 8, 2004
+
+Password: jessie
+
+To run the program just double click the E-GAMES.vbp file
+
+Thanks for downloading this program. I created this program due to the request of my younger cousins to develop a simple educational game (e-games). The codes are messy, and due to that I'm working on a version 2 of this project. 
+
+Your comments and suggestion are very welcome.
+
+Program by Jessie Panerio of Philippines
